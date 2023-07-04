@@ -1,0 +1,40 @@
+.questionCard{
+   
+    
+}
+.questionCard-title{
+    font-size: 18px;
+    font-weight:bold ;
+    color:blueviolet;
+    margin-bottom: 10px;
+    
+
+
+}
+.questionCard button{
+    width: 40%;
+    height: 40px;
+    background-color: rgb(251, 250, 247);
+    margin: 1rem;
+    font-size: 17px;
+    border:1px solid lightgray;
+    border-radius: 5px;
+    cursor:pointer
+}
+.questionCard button:hover{
+    background-color:lightblue;
+}
+.question-timer{
+    color: black;
+    font-weight: bold;
+    width: 50px;
+    height: 50px;
+    border: 1px solid blueviolet ;
+    background-color: rgb(251, 250, 247);
+
+    border-radius:50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
